@@ -1,27 +1,32 @@
-# ApiRickmortyTest
+# Projeto Rick & Morty
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+## Descrição
 
-## Development server
+Este projeto é uma aplicação Angular desenvolvida como um teste técnico para frontend developers. O objetivo é criar uma interface interativa para consultar e exibir personagens do seriado **Rick and Morty** utilizando a [API do Rick and Morty](https://rickandmortyapi.com/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- **Angular**: Framework de front-end para criar aplicações web modernas e dinâmicas.
+- **CSS**: Estilização básica para garantir uma aparência limpa e moderna.
+- **Bootstrap**: Framework CSS para garantir um design responsivo e elegante.
+- **Google Fonts**: Tipografia personalizada para melhorar a legibilidade e estética da aplicação.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades
 
-## Build
+- **Busca de Personagens**: Permite ao usuário pesquisar personagens específicos da série.
+- **Responsividade**: A aplicação é totalmente responsiva, garantindo uma boa experiência em dispositivos móveis e desktops.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Estrutura do Projeto
 
-## Running unit tests
+O projeto foi dividido em várias partes para melhor organização e manutenção:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Components**: Componentes reutilizáveis para a interface do usuário.
+- **Pages**: Páginas específicas da aplicação.
+- **Services**: Serviços para interação com a API e gerenciamento de dados.
 
-## Running end-to-end tests
+## Como Rodar o Projeto Localmente
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Clone o Repositório**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+   ```bash
+   git clone https://github.com/juliamariaa/api-rickmorty-test.git
