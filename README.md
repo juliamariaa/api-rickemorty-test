@@ -4,6 +4,9 @@
 
 Este projeto é uma aplicação Angular desenvolvida como um teste técnico para frontend developers. O objetivo é criar uma interface interativa para consultar e exibir personagens do seriado **Rick and Morty** utilizando a [API do Rick and Morty](https://rickandmortyapi.com/).
 
+## Deploy do projeto
+https://juliamariaa.github.io/api-rickemorty-test/
+
 ## Tecnologias Utilizadas
 
 - **Angular**: Framework de front-end para criar aplicações web modernas e dinâmicas.
