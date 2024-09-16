@@ -1,0 +1,39 @@
+section{
+  max-width: 720px;
+  margin: 0 auto 48px;
+  height: 511px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  background-color: #0A0A0A;
+  border: 1px solid #3D3D3D;
+  border-radius: 10px;
+}
+
+section .content-info{
+  height: 511px !important
+}
+
+section h2{
+  font-size: 24px;
+  color: #FFF;
+}
+
+section p{
+  font-size: 18px;
+  color: #A4A4A4;
+}
+
+section .btn{
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #FFF;
+  color: #0A0A0A;
+  padding: 8px 16px;
+  width: 141px;
+  margin: 0 auto;
+}
+
+section .btn:active{
+  position: relative;
+  top: 2px;
+}
